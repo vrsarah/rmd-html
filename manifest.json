@@ -4,7 +4,7 @@
   "platform": "4.3.3",
   "metadata": {
     "appmode": "rmd-static",
-    "primary_rmd": "test.Rmd",
+    "primary_rmd": "invalid.Rmd",
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
